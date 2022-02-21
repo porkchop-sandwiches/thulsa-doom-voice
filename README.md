@@ -4,6 +4,10 @@
 This mod adds voices from the Thulsa Doom character from the Conan The Barbarian movie as a selectable player voiceset to the Infinity Engine (Baldur's Gate/Baldur's Gate II/Icewind Dale) Enhanced Edition games version 2.6 or above.
 
 ## Version history
+### 1.0.6
+
+Created wav folder and put in blank file from the EE Soundsets install as the mod fails to install due to the folder missing.
+
 ### 1.0.5
 
 Swapped out a duplicated sound in thulsa0 (I wish to speak to you now.) with an unused sound in thulsa_ (For who now is your father if it is not me?).  Got rid of the unused sound file.
