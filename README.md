@@ -5,7 +5,7 @@ This mod adds voices from the Thulsa Doom character from the Conan The Barbarian
 
 ## Version history
 ### 1.0.8
-Updated @5 translation for latter part of first sentence to be the correct subtitle.
+Updated 5 translation for latter part of first sentence to be the correct subtitle.
 
 ### 1.0.7
 Commented out same lines in .tp2 that are commented out in .tra
